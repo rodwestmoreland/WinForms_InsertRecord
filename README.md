@@ -7,5 +7,4 @@
 
 ## Label message confirmation on successful submit
 
-See my portfolio page at https://rodwestmoreland.github.io/
-[RodWestmoreland](https://rodwestmoreland.github.io)
+See my portfolio page at [My Portfolio](https://rodwestmoreland.github.io)
